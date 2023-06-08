@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mycomponentsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vermamukesh67/MyComponentSDK.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "26ebccc3bf64418f0aebb3e2bf65aa34df3087ef"
+      }
+    }
+  ],
+  "version" : 2
+}
